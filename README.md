@@ -6,3 +6,9 @@ https://colab.research.google.com/drive/1r-tM-eXTIL_-BMH9EZ5FwoVd1XZDUm0A?usp=sh
 В проекте содержится 4 файла, 3 таблицы CSV и Power Bi дашборд
 
 Для запуска нужно скачать файлы: 
+drivers.csv
+trips.csv
+users.csv
+
+И дашборд построенный на этих таблицах Power Bi
+Такси.pbix
